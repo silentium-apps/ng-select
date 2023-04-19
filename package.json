@@ -1,5 +1,5 @@
 {
-  "repository": "ng-select/ng-select",
+  "repository": "silentium-apps/ng-select",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
@@ -56,7 +56,7 @@
     "@angular/compiler-cli": "~11.1.0",
     "@angular/language-service": "~11.1.0",
     "@semantic-release/changelog": "^3.0.4",
-    "@stackblitz/sdk": "^1.3.0",
+    "@stackblitz/sdk": "1.3.0",
     "@types/jasmine": "~3.6.0",
     "@types/jasminewd2": "^2.0.6",
     "@types/node": "^12.11.1",
